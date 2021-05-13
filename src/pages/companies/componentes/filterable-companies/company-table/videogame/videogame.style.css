@@ -1,0 +1,21 @@
+.videogame-container {
+   border: 2px solid rgb(23, 185, 45) ;
+   text-align: left;
+   margin-bottom: 2px;
+   width: 100%;
+  
+
+} 
+.izq{
+   width: 33% auto;
+   text-align: left;
+   }
+   .center{
+   width: 28% ;
+   text-align: center;
+   }
+   .derecha{
+   width: 33%;
+   text-align: right;
+   
+   }

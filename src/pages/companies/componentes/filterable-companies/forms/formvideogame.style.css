@@ -1,0 +1,15 @@
+.form-videogame-container{
+    
+    width: 27%;
+    min-height: 5px;
+    margin: 34px auto;
+    border-color: rgb(0, 128, 107);
+    border-style: dotted;
+    border-width: 10px;
+    text-align: left;
+   
+}
+th{
+    font-weight: bold;
+    
+}

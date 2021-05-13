@@ -1,0 +1,21 @@
+.company-table-container {
+    width: 50%; 
+   min-height: 340px;
+  border: 2px solid rgb(170, 27, 151);
+   margin: 4px auto;
+   margin-right: 100px;
+   float: right;
+   background-image: url('pacman.jpg');
+   border-width: 10px;
+      border-style: solid;
+
+      border-top-color: #ff0;
+      border-right-color: #f0f;
+      border-bottom-color: #0ff;
+      border-left-color: #f00;
+}
+
+.lis1{
+    word-spacing: 140px;
+
+}

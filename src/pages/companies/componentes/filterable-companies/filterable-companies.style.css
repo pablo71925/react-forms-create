@@ -1,0 +1,10 @@
+.filterable-companies-container {
+    width: 90%; 
+    margin: 0 auto;
+    min-height: 690px;
+    border: 1px solid rgb(34, 146, 19);
+    background-image: url('MARIO.png');
+    background-position: bottom left 10%;
+    background-repeat: no-repeat;
+  }
+ 
